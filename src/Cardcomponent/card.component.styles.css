@@ -1,0 +1,16 @@
+
+.card-author{
+ font-style: normal;
+  font-weight: bold;
+}
+
+.card-button{
+ margin-top: 10px;
+ margin-bottom: 10px;
+   cursor:pointer;
+ background: none;
+font-family: fantasy; 
+}
+
+
+
